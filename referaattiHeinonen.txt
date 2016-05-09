@@ -1,0 +1,5 @@
+Ketterät menetelmät uskovat itseorganisoituvan tiimin tuottavan parhaimman lopputuloksen. 
+Ohjelmistokehitystä varten tarkoitetut eri menetelmät ohjeistavat, kuinka yhdessätoimimisen pitäisi tapahtua. Näitä ryhmätyöskentelytaitoja ei ihminen osaa valmiiksi, vaan niitä tulisi harjoitella. Huonot taidot yleensä johtuvat 
+vähäisestä kokemuksesta. Menestyksekäs ryhmätyö riippuu ryhmän jäsenistä. Hyviä piirteitä ovat esim.: avoimuus, auttavaisuus ja positiivisuus. Huonoja piirteitä ovat esim.: muiden väheksyminen ja itsepäisyys. Huonot piirteet omaavan kehittäjän
+on vaikea kehittyä ryhmän jäsenenä. Ryhmätyötaito on tärkeää ohjelmistojen kehittäjille. Suurten projetien kanssa työskentelee useita ihmisiä, joiden taidot ja luonteet vaihtelevat. Ilman kommunikointia erilaisista työskenetelijöistä ei saada kaikkea irti.
+Olisi tärkeää opetella ryhmätyötaitoja, jotta opiskelijalla olisi valmius heti opiskelun jälkeen työelämään siirtymiseen. 

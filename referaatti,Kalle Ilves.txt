@@ -1,0 +1,4 @@
+Perinteisten ohjelmistotuotantomenetelmien noudattaminen on hankalaa. Ongelmana onm että vaatimuksen muuttuvat jatkuvasti. Ketterät menetelmät ovat nousseet suosioon.
+Scrum ja Kanban ovat ketteriä menetelmiä. Näiden yhdistelmää kutsutaan Scrumban:iksi. Scrumban soveltuu ennalta-arvaamattomiin projekteihin, jossa vaatimukset muuttuvat jatkuvasti.
+Ongelmana on rajoitteiden puuttuminen, joka saattaa johtaa ryhmän tehottomouuteen. Pitää pitää mielessä, että scrum ja Kanban eivät ole valmiiksi määriteltyjä prosesseja, vaan työkaluja 
+prosessin määrittämiseen. Jokainen projekti on uniikki.
